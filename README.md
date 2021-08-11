@@ -1,2 +1,2 @@
-# FreeCAD 6 
+# FreeCAD 
 FreeCAD files for variou projects
